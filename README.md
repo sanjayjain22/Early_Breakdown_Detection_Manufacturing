@@ -33,6 +33,8 @@ Their descriptions are omitted for data anonymity.
  
  ![alt text](https://github.com/sanjayjain22/Early_Breakdown_Detection_Manufacturing/blob/master/Resources/confusion_matrix.png?raw=true)
  
+ * With a Recall of 16/40 = 0.4 and a Precision of 16/145 = 0.1103, Can result in significant savings for paper manufacturing companies.
+ 
  
  
  
