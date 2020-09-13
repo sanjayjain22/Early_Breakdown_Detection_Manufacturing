@@ -6,12 +6,12 @@ Early Detection of breakdowns in paper manufacturing resulting in huge savings.
 
  Typical paper manufacturing setup.
  
-## DESCRIPTION
-* Paper Manufacturing is a continuos process. A paper machine runs round-the-clock to continuosly roll out reels of paper.
-* Paper Breaks are faced almost every day as paper sheets are very brittle.
-* Breakdowns causes losses between $10K - $20K for mid-size plants and respectively higher amounts for larger plants.
-* And even worse, the workers have to enter hazardous areas to inspect and restore the machine.
+## Motivation
+A typical paper manufacturing plant faces at least one sheet break a day. Each such break can cost upwards of $25,000. Sheet breaks are known to cost $6-8 Million a year in a plant. Considering the worldwide paper industries, this translates to loss revenue of $3 billions every year.
 
+Additionally, parts of paper machines have hazardous conditions. Resuming the operations after a sheet break requires operators to face such hazards.
+
+Developing a solution to address this problem can save costs and reduce work hazards.
 ## SOLUTION PROPOSAL
 * We intend to build a model which can detect these breakdowns before they occur, so that the operator can minimize the risk of breakdowns by adjusting the variables.
  
